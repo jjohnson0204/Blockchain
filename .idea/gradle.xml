@@ -10,12 +10,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/What comments are not used in the program" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Hello" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Theory" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/WORA" />
             <option value="$PROJECT_DIR$/Topics/Printing data/First, second, third" />
             <option value="$PROJECT_DIR$/Topics/Printing data/Stars" />
             <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Animal" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
